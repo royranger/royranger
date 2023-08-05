@@ -5,7 +5,7 @@
     <img align="center" width="250" src="https://dx35vtwkllhj9.cloudfront.net/rca-records/elvis-3d-vinyl-player/images/regions/us/elvis_share.png" />
   </a>
   <a href="#">
-    <img align="center" width="240" src="https://joys-assets.s3.eu-west-2.amazonaws.com/project-screenshots/twitch-wheel.png" />
+    <img align="center" width="240" src="https://joys-assets.s3.eu-west-2.amazonaws.com/project-screenshots/twitch-spinning-wheel.png" />
   </a>
   <a href="https://app.powster.com/netflix/enola-holmes/us/">
     <img align="center" width="250" src="https://dx35vtwkllhj9.cloudfront.net/netflix/enola-holmes/images/share/share_site.png" />
